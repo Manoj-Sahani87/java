@@ -1,8 +1,6 @@
 package Patterns;
 // Half pyramid with Number
 import java.util.Scanner;
-
-// Half Pyramid with Number
 public class Pattern_6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

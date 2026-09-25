@@ -1,5 +1,5 @@
 package Patterns;
-
+// NUmber Pyramid
 public class Pattern_11 {
     public static void main(String[] args) {
         int n = 5;

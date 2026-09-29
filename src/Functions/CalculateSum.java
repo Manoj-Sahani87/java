@@ -2,7 +2,7 @@ package Functions;
 
 import java.util.Scanner;
 
-public class twoNumberOfSum {
+public class CalculateSum {
     public static int sum(int a, int b){
      int sum = a + b;
      return sum;

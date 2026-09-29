@@ -2,7 +2,7 @@ package Functions;
 
 import java.util.Scanner;
 
-public class main {
+public class Main {
     public static void  printMyName (String name){
         System.out.println(name);
         return;

@@ -1,5 +1,5 @@
 package Recursion;
-
+// print x^n (stack height = log n)
 public class recursion_07 {
     public static int calcPower(int x, int n){
         if (n == 0){

@@ -9,6 +9,7 @@ public class recursion_07 {
             return 0;
         }
         // if N is even
+
         if (n % 2 == 0){
             return calcPower(x, n/2) * calcPower(x, n/2);
         }else { // N is odd

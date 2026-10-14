@@ -1,6 +1,6 @@
 package Strings;
 
-public class Concatenation {
+public class String_01 {
     public static void main(String[] args) {
         String firstName = "Shark";
         String lastName = "Slayer";

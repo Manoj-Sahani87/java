@@ -1,4 +1,4 @@
-package CodeDaily;
+package codedaily;
 
 import java.util.Scanner;
 

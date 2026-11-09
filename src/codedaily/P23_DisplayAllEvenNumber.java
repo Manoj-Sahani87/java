@@ -12,12 +12,12 @@ public class P23_DisplayAllEvenNumber {
         System.out.print("Enter a value : ");
         int num = sc.nextInt();
 
-        for (int i = 0; i < num; i++) {
+        for (int i = 1; i <= num; i++) {
             if (i % 2 == 0) {
                 System.out.print(i + " ");
             }
-            System.out.println();
         }
+        System.out.println();
         sc.close();
     }
 }
